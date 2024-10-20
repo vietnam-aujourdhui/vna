@@ -3,6 +3,9 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+![Texte décrivant l'image]({% link images/PhotoFunia-1687498319.jpg %})
+
+
 A propos,
 
 « Le Viêt Nam, aujourd’hui« est un service web à but non lucratif ayant pour vocation de réunir des articles de divers sources concernant l’actualité du Viêt Nam et des pays du Mékong. Sa base de données comprend désormais plus de 30.000 articles.
