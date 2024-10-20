@@ -3,15 +3,15 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# <center>Le Viêt Nam, aujourd'hui</center>
+# <center>[Le Viêt Nam, aujourd'hui](https://vietnam-aujourdhui.info)</center>
 
 
 
 _<center>Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong.</center>_ 
 
-_<center>Depuis novembre 1997, une base de plus de 30 000 articles.
+_<center>Depuis novembre 1997, une base de plus de 30 000 articles.</center>_
 
-[vietnam-aujourdhui.info](https://vietnam-aujourdhui.info)</center>_
+[vietnam-aujourdhui.info]
 
 
 
