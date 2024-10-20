@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# <center>[Le Viêt Nam, aujourd'hui](https://vietnam-aujourdhui.info)</center>
+# <center>Le Viêt Nam, aujourd'hui</center>
 
 
 
