@@ -3,16 +3,16 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+# <center>Le Viêt Nam, aujourd'hui</center>
+
+_<center>Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong.</center>_ 
+
+_<center>Depuis novembre 1997, une base de plus de 30 000 articles.</center>_ 
+
+
 <center>
-* Le Viêt Nam, aujourd'hui *
-</center>
-
-Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong. 
-
-Depuis novembre 1997, une base de plus de 30 000 articles.
-
-
 ![Texte décrivant l'image]({% link images/PhotoFunia-1687498319.jpg %})
+</center> 
 
 
 
