@@ -9,10 +9,10 @@ in_menu: true
 
 _<center>Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong.</center>_ 
 
-_<center>Depuis novembre 1997, une base de plus de 30 000 articles. 
+_<center>Depuis novembre 1997, une base de plus de 30 000 articles._ 
 
 
-[vietnam-aujourdhui.info](https://vietnam-aujourdhui.info)</center>_
+[vietnam-aujourdhui.info](https://vietnam-aujourdhui.info)</center>
 
 
 
