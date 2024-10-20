@@ -10,9 +10,9 @@ _<center>Réunion d’articles de presse sur l’actualité du Viêt Nam et des 
 _<center>Depuis novembre 1997, une base de plus de 30 000 articles.</center>_ 
 
 
-<center>
+
 ![Texte décrivant l'image]({% link images/PhotoFunia-1687498319.jpg %})
-</center> 
+ 
 
 
 
