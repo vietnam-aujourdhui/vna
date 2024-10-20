@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Le Viêt Nam, aujourd'hui
+<center># Le Viêt Nam, aujourd'hui
 
 
 
@@ -11,7 +11,7 @@ _Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du 
 
 _Depuis novembre 1997, une base de plus de 30 000 articles._
 
-[vietnam-aujourdhui.info](https://vietnam-aujourdhui.info/)
+[vietnam-aujourdhui.info](https://vietnam-aujourdhui.info/)</center>
 
 
 
