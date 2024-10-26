@@ -1,12 +1,8 @@
 ---
-title: "Accueil"
+title: "Le Viêt Nam, aujourd'hui (français)"
 order: 0
 in_menu: true
 ---
-# Le Viêt Nam, aujourd'hui
-
-
-
 _Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong._ 
 
 _Depuis novembre 1997, une base de plus de 30 000 articles._
