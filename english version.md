@@ -1,5 +1,5 @@
 ---
-title: "About us"
+title: "English version"
 order: 1
 in_menu: true
 ---
