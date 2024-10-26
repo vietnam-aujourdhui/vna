@@ -1,6 +1,8 @@
 ---
 title: "Activités sem. 42 (14 - 20 octobre 2024)"
 ---
+![Texte décrivant l'image]({% link images/PhotoFunia-1687498580.jpg %})
+
 Nombre d'articles ajoutés par catégorie :   
 - Vietnam news : 14 
 - Infos Birmanie : 5
