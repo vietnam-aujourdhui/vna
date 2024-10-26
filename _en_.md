@@ -1,5 +1,5 @@
 ---
-title: "English version"
+title: "_En_"
 order: 1
 in_menu: true
 ---
