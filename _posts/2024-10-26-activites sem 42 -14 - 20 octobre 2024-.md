@@ -1,5 +1,5 @@
 ---
-title: "Activités semaine 42 (14 au 20 octobre 2024)"
+title: "Activités sem. 42 (14 - 20 octobre 2024)"
 ---
 Nombre d'articles ajoutés par catégorie :   
 - Vietnam news : 14 
