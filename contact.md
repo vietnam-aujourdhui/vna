@@ -3,7 +3,7 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
-![]({% link images/PhotoFunia-1687498980.jpg %})
+![Texte décrivant l'image]({% link images/PhotoFunia-1687498980.jpg %})
 
 
 Pour nous envoyer un message, 
