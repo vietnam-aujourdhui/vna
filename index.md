@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "A propos"
 order: 0
 in_menu: true
 ---
@@ -31,4 +31,4 @@ Suite au sommet de la Francophonie de Hà Nội et au démarrage des services In
 
 Il est hébergé sur un serveur administré par la société « Gandi SAS » et respecte la politique européenne de protection des données à caractère personnel (RGPD). Ainsi, aucune donnée personnelle n’est collectée.
 
-En complement, ce service web comprend également des comptes aux réseaux sociaux « Mastodon », « PixelFed » , « Pleroma », « Lemmy », « Funkwhale » issues de la « Fediverse  » , une fédération de serveurs pour des applications éthiques. 
+En complement, ce service web comprend également des comptes aux réseaux sociaux « [**Mastodon**](https://mamot.fr/@vietnam_aujourdhui) », « PixelFed » , « Pleroma », « Lemmy », « Funkwhale » issues de la « Fediverse  » , une fédération de serveurs pour des applications éthiques. 
