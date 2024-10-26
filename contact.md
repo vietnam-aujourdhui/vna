@@ -3,5 +3,8 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
-# En construction
-` 
+Pour nous envoyer un message, 
+- par courriel : vietnam-aujourdhui [@] proton.me 
+
+To send us a message,  
+- by mail : vietnam-aujourdhui [@] proton.me 
