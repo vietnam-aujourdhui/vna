@@ -1,12 +1,8 @@
 ---
-title: "_En_"
+title: "Le Viêt Nam, aujourd'hui (english)"
 order: 1
 in_menu: true
 ---
-# Le Viêt Nam, aujourd'hui
-
-
-
 _Collection of press articles on current events in Vietnam and the Mekong countries._ 
 
 _Since November 1997, a database of more than 30,000 articles._
