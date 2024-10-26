@@ -3,7 +3,7 @@ title: "Le Viêt Nam, aujourd'hui (français)"
 order: 0
 in_menu: true
 ---
-# Le Viêt Nam, aujourd'hui 
+# Le Viêt Nam, aujourd'hui (français)
 
 _Réunion d’articles de presse sur l’actualité du Viêt Nam et des pays du Mékong._ 
 
