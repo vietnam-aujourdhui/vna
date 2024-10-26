@@ -29,6 +29,6 @@ A propos,
 
 Suite au sommet de la Francophonie de Hà Nội et au démarrage des services Internet au Việt Nam, il a été créé en novembre 1997 sur une idée de Minh Anh, malheureusement décédée en avril 2024, puis géré avec Patrick.
 
-Il est hébergé sur un serveur administré par la société « Gandi SAS » et respecte la politique européenne de protection des données à caractère personnel (RGPD). Ainsi, aucune donnée personnelle n’est collectée.
+Il est hébergé sur un serveur administré par la société « [_Gandi SAS_](https://www.gandi.net/fr)» et respecte la politique européenne de protection des données à caractère personnel (RGPD). Ainsi, aucune donnée personnelle n’est collectée.
 
 En complement, ce service web comprend également des comptes aux réseaux sociaux « [_Mastodon_](https://mamot.fr/@vietnam_aujourdhui) », « [_Pixelfed_](https://pixelfed.tokyo/VNA_photo)  » , « [_Pleroma_](https://soap.librosphere.fr/@vna) », «  [_Lemmy_](https://jlai.lu/c/cinema_vietnam) », « [_Funkwhale_](https://funk.firobe.fr/@vietnam_aujourdhui) » issues de la « [_Fediversee_](https://fediverse.party/) » , une fédération de serveurs pour des applications éthiques. 
